@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export GIT_WORK_TREE=/home/kratexin/shop.kratex.in
+    - git checkout -f
